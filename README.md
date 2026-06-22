@@ -14,9 +14,3 @@ To ensure the codebase remains scalable, maintainable, and professional, I struc
 * **`GET /api/products`** - Retrieve the list of all products.
 * **`POST /api/products`** - Add a new product (requires `name` and `price` validation).
 * **`PUT /api/products/:id`** - Update an existing product by its ID.
-
-## How to Run
-1. Clone the repository.
-2. Run `npm install` to install Express.
-3. Run `node server.js` to start the local server.
-4. Test endpoints using Postman or ThunderClient on `http://localhost:3000`.
