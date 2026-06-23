@@ -11,6 +11,9 @@ To ensure the codebase remains scalable, maintainable, and professional, I struc
 * **`data/`**: Acts as the mock data layer, holding the initial state of the 10 furniture products.
 
 ## API Endpoints
+
+* **Live Deployment Link:** - "[https://furniture-api-eqjf.onrender.com]"
+
 * **`GET /api/products`** - Retrieve the list of all products.
 * **`POST /api/products`** - Add a new product (requires `name` and `price` validation).
 * **`PUT /api/products/:id`** - Update an existing product by its ID.
